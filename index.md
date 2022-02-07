@@ -9,8 +9,8 @@
 <br>This project was created in 5 days period during Unity education at PISMO Novska
 
 ---
-[Test](/images/fire.png)
-<img src="images/fire.png?raw=true"/>
+[Night & Day](https://jovvvva.itch.io/night-day)
+<img src="https://img.itch.zone/aW1nLzc2MzEyMzQucG5n/original/FEe4FL.png"/>
 
 ---
 [Project 3 Title](http://example.com/)

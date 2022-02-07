@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Games 
 
 [Emperor's Diary](https://sdad-711.itch.io/emperors-diary)
 <img src="https://img.itch.zone/aW1nLzcyOTY0OTYucG5n/315x250%23c/oULPG%2B.png"/>

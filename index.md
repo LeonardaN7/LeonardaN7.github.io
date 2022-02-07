@@ -11,6 +11,7 @@
 ---
 [Night & Day](https://jovvvva.itch.io/night-day)
 <img src="https://img.itch.zone/aW1nLzc2MzEyMzQucG5n/original/FEe4FL.png"/>
+<br>Night & Day is a 2D local co-op puzzle game. It features many unique levels with different obstacles, from jumping over spikes to moving saw's and platforms! Sleek looking User-Interface, relaxing puzzle solving music both ingame and in menus.
 
 ---
 [Project 3 Title](http://example.com/)

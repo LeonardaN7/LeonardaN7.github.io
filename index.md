@@ -21,7 +21,9 @@
 
 ### Wallpapers
 
-- [Wallpaper]("images/Wallpaper_Lea.jpg?raw=true/")
+- [Wallpaper]
+- <br>
+- <img src="images/Wallpaper_Lea.jpg?raw=true"/)>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

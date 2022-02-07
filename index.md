@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Emperor's Diary](https://sdad-711.itch.io/emperors-diary)
-<img src="https://img.itch.zone/aW1hZ2UvMTI1MjA1NC83Mjk2NDAxLnBuZw==/347x500/Ezb2ND.png"/>
+<img src="https://img.itch.zone/aW1nLzcyOTY0OTYucG5n/315x250%23c/oULPG%2B.png"/>
 <br>This project was created in 5 days period during Unity education at PISMO Novska
 
 ---

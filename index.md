@@ -9,8 +9,8 @@
 <br>This project was created in 5 days period during Unity education at PISMO Novska
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Test](/images/fire.png)
+<img src="images/fire.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

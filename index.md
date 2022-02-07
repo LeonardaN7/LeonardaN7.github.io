@@ -4,8 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://sdad-711.itch.io/emperors-diary)
+[Emperor's Diary](https://sdad-711.itch.io/emperors-diary)
 <img src="https://img.itch.zone/aW1hZ2UvMTI1MjA1NC83Mjk2NDAxLnBuZw==/347x500/Ezb2ND.png"/>
+<br>This project was created in 5 days period during Unity education at PISMO Novska
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

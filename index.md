@@ -14,8 +14,9 @@
 <br>Night & Day is a 2D local co-op puzzle game. It features many unique levels with different obstacles, from jumping over spikes to moving saw's and platforms! Sleek looking User-Interface, relaxing puzzle solving music both ingame and in menus.
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Not Again](https://njoknjok.itch.io/not-again)
+<img src="https://img.itch.zone/aW1nLzgwOTc2MDIucG5n/315x250%23c/dSzrEh.png"/>
+<br>This is a game made for fun with friends... It's a story about a man who kills himself and God comes and gives hima second chance at life, which he does not want at all. Tutorial lvl is set in the attick of a house, after that you have bathroom, kitchen and garage. On each lvl you can die in 3 different ways, each unique way of suicide gives you one star.
 
 ---
 

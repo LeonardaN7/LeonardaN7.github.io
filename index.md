@@ -4,6 +4,11 @@
 
 ### Games 
 
+[Pyramid Escape](https://bernarda.itch.io/pyramid-escape)
+<img src="https://img.itch.zone/aW1nLzgyNTEzNjkucG5n/315x250%23c/lMcXUS.png"/>
+<br>Pyramid Escape was presented as the final project for conclusion of 6th generation educational program "INKUBATOR - PISMO" for "Unity/C# game developer". It was made  during three months period.
+
+---
 [Emperor's Diary](https://sdad-711.itch.io/emperors-diary)
 <img src="https://img.itch.zone/aW1nLzcyOTY0OTYucG5n/315x250%23c/oULPG%2B.png"/>
 <br>This project was created in 5 days period during Unity education at PISMO Novska

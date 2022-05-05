@@ -25,7 +25,7 @@ design
 ---
 [Novska 2077]
 <br><br>
-<img src="/images/Novska2077.png"/>
+<img src="/images/?raw=true"/>
 <br><br>
 <br>Novska 2077 is a FPS shooter game, inspired by Cyberpunk 2077, that reinvents city of Novska in the future as informational and technological center as part of the City Project Renewal, so the whole design is made to actual measurements. In this scenario, advanced AI alien civilization crash landed in Novska. Player is defending information towers to stop aliens from stealing technologies and information.
 <br><br>

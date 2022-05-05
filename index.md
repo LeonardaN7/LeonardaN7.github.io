@@ -45,7 +45,7 @@ design
 <br><br>
 <img src="https://img.itch.zone/aW1nLzgwOTc2MDIucG5n/315x250%23c/dSzrEh.png"/>
 <br><br>
-<br>This is a game made for fun with friends... It's a story about a man who kills himself and God comes and gives hima second chance at life, which he does not want at all. Tutorial lvl is set in the attick of a house, after that you have bathroom, kitchen and garage. On each lvl you can die in 3 different ways, each unique way of suicide gives you one star.
+<br>This is a game made for fun with friends... It's a story about a man who kills himself and God comes and gives him a second chance at life, which he does not want at all. Tutorial lvl is set in the attick of a house, after that you have bathroom, kitchen and garage. On each lvl you can die in 3 different ways, each unique way of suicide gives you one star.
 <br><br>
 <br>Duties: Project Lead, UI Design, Level Design
 

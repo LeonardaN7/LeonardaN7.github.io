@@ -6,7 +6,7 @@
 
 <img src="https://img.itch.zone/aW1nLzgyNTEzNjkucG5n/315x250%23c/lMcXUS.png"/>
 <br><br>
-[Pyramid Escape](https://bernarda.itch.io/pyramid-escape)
+[Pyramid Escape](https://bernarda.itch.io/pyramid-escape)<>
 <br><br>
 <br>Pyramid Escape was presented as the final project for conclusion of 6th generation educational program "INKUBATOR - PISMO" for "Unity/C# game developer". It was made  during three months period.
 <br><br>
